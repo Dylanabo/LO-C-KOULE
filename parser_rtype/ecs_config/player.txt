@@ -1,0 +1,27 @@
+player1;
+text:"./res/img1.png"
+health:"100"
+size:"200, 200"
+pos:"10, 10"
+speed:"1"
+
+player2;
+text:"./res/img2.png"
+health:"100"
+size:"200, 200"
+pos:"10, 60"
+speed:"1" 
+
+player3;
+text:"./res/img3.png"
+health:"100"
+size:"200, 200"
+pos:"10, 110"
+speed:"1" 
+
+player4;
+text:"./res/img4.png"
+health:"100"
+size:"200, 200"
+pos:"10, 160"
+speed:"1" 

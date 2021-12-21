@@ -1,0 +1,7 @@
+background;
+img_parallax1:"./parallax1.png"
+img_parallax2:"./parallax2.png"
+img_parallax3:"./parallax3.png"
+parallax_speed1:"0.50"
+parallax_speed2:"1"
+parallax_speed3:"1.50"

@@ -1,0 +1,7 @@
+ennemy;
+text:"./res/ennemy.png"
+health:"100"
+size:"200, 200"
+pos:"0.0"
+speed:"1"
+spawn_time:"0.5"
